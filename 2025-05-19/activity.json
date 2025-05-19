@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-19",
+  "projects": {
+    "FixMe24": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\pk-20\\AppData\\Roaming\\Trae\\User\\mcp.json": [
+          {
+            "timestamp": "2025-05-19T21:24:25.118Z",
+            "fileName": "c:\\Users\\pk-20\\AppData\\Roaming\\Trae\\User\\mcp.json",
+            "fileType": ".json",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "c:\\Users\\pk-20\\AppData\\Roaming\\Trae\\User\\mcp.json"
+      ],
+      "averageChangeSize": 51
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
