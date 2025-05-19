@@ -1,0 +1,66 @@
+{
+  "date": "2025-05-20",
+  "projects": {
+    "FixMe24": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts": [
+          {
+            "timestamp": "2025-05-19T22:40:49.998Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\.env.local": [
+          {
+            "timestamp": "2025-05-19T22:42:29.435Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "local"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "local": 2
+      },
+      "changeFrequency": {
+        "0": 2
+      },
+      "topFiles": [
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts",
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\.env.local"
+      ],
+      "averageChangeSize": 1.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "local",
+    "ts"
+  ]
+}
