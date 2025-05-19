@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "FixMe24": {
-      "totalLinesAdded": 81,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 854,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\pk-20\\AppData\\Roaming\\Trae\\User\\mcp.json": [
           {
@@ -35,6 +35,94 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\migrations\\00001_initial_schema.sql": [
+          {
+            "timestamp": "2025-05-19T21:57:51.696Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\migrations\\00001_initial_schema.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-05-19T21:57:52.041Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\migrations\\00001_initial_schema.sql",
+            "fileType": ".sql",
+            "linesAdded": 331,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-05-19T21:57:54.196Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\migrations\\00001_initial_schema.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts": [
+          {
+            "timestamp": "2025-05-19T21:58:56.336Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T21:58:59.340Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts",
+            "fileType": ".ts",
+            "linesAdded": 440,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T21:59:03.474Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
