@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "FixMe24": {
-      "totalLinesAdded": 366,
+      "totalLinesAdded": 634,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts": [
           {
@@ -42,6 +42,20 @@
             "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\.env.local",
             "fileType": ".local",
             "linesAdded": 318,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-20T14:52:16.771Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "FixMe24",
             "content": {
@@ -96,6 +110,54 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\lib\\supabase-admin.ts": [
+          {
+            "timestamp": "2025-05-20T14:51:24.393Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\lib\\supabase-admin.ts",
+            "fileType": ".ts",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\seed-data.ts": [
+          {
+            "timestamp": "2025-05-20T14:51:54.386Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\seed-data.ts",
+            "fileType": ".ts",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\execute-migration.ts": [
+          {
+            "timestamp": "2025-05-20T14:52:32.755Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\execute-migration.ts",
+            "fileType": ".ts",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
