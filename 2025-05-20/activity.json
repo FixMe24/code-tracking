@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "FixMe24": {
-      "totalLinesAdded": 963,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 1396,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts": [
           {
@@ -156,6 +156,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T15:05:52.035Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\seed-data.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\execute-migration.ts": [
@@ -194,6 +208,20 @@
             "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\package.json",
             "fileType": ".json",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-20T15:06:43.103Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "FixMe24",
             "content": {
@@ -250,6 +278,82 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\direct-sql-execution.sql": [
+          {
+            "timestamp": "2025-05-20T15:03:57.586Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\supabase\\direct-sql-execution.sql",
+            "fileType": ".sql",
+            "linesAdded": 297,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\direct-db-setup.ts": [
+          {
+            "timestamp": "2025-05-20T15:04:20.978Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\direct-db-setup.ts",
+            "fileType": ".ts",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T15:07:18.424Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\direct-db-setup.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\setup-database.js": [
+          {
+            "timestamp": "2025-05-20T15:06:14.848Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\setup-database.js",
+            "fileType": ".js",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-20T15:06:19.372Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\setup-database.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
