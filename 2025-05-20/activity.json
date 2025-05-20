@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "FixMe24": {
-      "totalLinesAdded": 634,
+      "totalLinesAdded": 963,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\types\\supabase.ts": [
           {
@@ -110,6 +110,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T14:56:15.036Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\home\\CtaSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\lib\\supabase-admin.ts": [
@@ -150,6 +164,84 @@
             "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\scripts\\execute-migration.ts",
             "fileType": ".ts",
             "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\package.json": [
+          {
+            "timestamp": "2025-05-20T14:53:41.991Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\package.json",
+            "fileType": ".json",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-20T14:53:58.446Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\utils\\supabase-sql.ts": [
+          {
+            "timestamp": "2025-05-20T14:54:18.424Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\utils\\supabase-sql.ts",
+            "fileType": ".ts",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\utils\\content-loader.ts": [
+          {
+            "timestamp": "2025-05-20T14:55:30.952Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\utils\\content-loader.ts",
+            "fileType": ".ts",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useSupabaseContent.ts": [
+          {
+            "timestamp": "2025-05-20T14:55:51.444Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useSupabaseContent.ts",
+            "fileType": ".ts",
+            "linesAdded": 88,
             "linesRemoved": 0,
             "projectName": "FixMe24",
             "content": {
