@@ -2,9 +2,9 @@
   "date": "2025-05-21",
   "projects": {
     "FixMe24": {
-      "totalLinesAdded": 1891,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 3007,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 57,
       "files": {
         "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx": [
           {
@@ -554,6 +554,228 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\projects\\page.tsx": [
+          {
+            "timestamp": "2025-05-21T04:08:29.920Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\projects\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\news\\page.tsx": [
+          {
+            "timestamp": "2025-05-21T04:09:16.920Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\news\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:09:22.231Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\news\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 197,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:09:27.029Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\news\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\contact\\page.tsx": [
+          {
+            "timestamp": "2025-05-21T04:10:26.854Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\contact\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:10:29.342Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\contact\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 282,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:10:32.931Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\contact\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\dashboard\\page.tsx": [
+          {
+            "timestamp": "2025-05-21T04:11:33.255Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\dashboard\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:11:35.858Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\dashboard\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:11:39.478Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\dashboard\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\layout.tsx": [
+          {
+            "timestamp": "2025-05-21T04:12:15.951Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:12:17.113Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 174,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T04:12:21.135Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\app\\admin\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\public\\robots.txt": [
+          {
+            "timestamp": "2025-05-21T04:12:38.804Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\public\\robots.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-21T04:12:40.176Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\public\\robots.txt",
+            "fileType": ".txt",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
