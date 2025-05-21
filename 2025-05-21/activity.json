@@ -1,0 +1,303 @@
+{
+  "date": "2025-05-21",
+  "projects": {
+    "FixMe24": {
+      "totalLinesAdded": 725,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 17,
+      "files": {
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx": [
+          {
+            "timestamp": "2025-05-21T03:54:58.783Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:55:02.050Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:55:04.531Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Footer.tsx": [
+          {
+            "timestamp": "2025-05-21T03:55:39.589Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:55:41.505Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:55:42.390Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\MainLayout.tsx": [
+          {
+            "timestamp": "2025-05-21T03:55:57.812Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\MainLayout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:55:57.783Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\MainLayout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\common\\LanguageSwitcher.tsx": [
+          {
+            "timestamp": "2025-05-21T03:56:18.014Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\common\\LanguageSwitcher.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-21T03:56:18.545Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\common\\LanguageSwitcher.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useAuth.ts": [
+          {
+            "timestamp": "2025-05-21T03:56:48.126Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T03:56:48.932Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T03:56:49.470Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\index.ts": [
+          {
+            "timestamp": "2025-05-21T03:57:02.287Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T03:57:02.589Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\locales\\en.ts": [
+          {
+            "timestamp": "2025-05-21T03:57:31.837Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\locales\\en.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T03:57:33.839Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\locales\\en.ts",
+            "fileType": ".ts",
+            "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T03:57:37.096Z",
+            "fileName": "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\locales\\en.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "FixMe24",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 9,
+        "ts": 8
+      },
+      "changeFrequency": {
+        "5": 17
+      },
+      "topFiles": [
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Header.tsx",
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\Footer.tsx",
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\hooks\\useAuth.ts",
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\i18n\\locales\\en.ts",
+        "c:\\Users\\pk-20\\Projekte\\FixMe24\\temp_project\\src\\components\\layout\\MainLayout.tsx"
+      ],
+      "averageChangeSize": 40.666666666666664
+    }
+  },
+  "totalActiveTime": 16,
+  "totalProjects": 1,
+  "totalFiles": 7,
+  "mostActiveHours": [
+    5
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
